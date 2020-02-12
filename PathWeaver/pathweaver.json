@@ -1,0 +1,8 @@
+{
+  "lengthUnit": "Meter",
+  "maxVelocity": 2.1,
+  "maxAcceleration": 2.0,
+  "wheelBase": 0.6729,
+  "gameName": "Infinite Recharge",
+  "outputDir": "../../../git/frc-2020/src/main/deploy"
+}
